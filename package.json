@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "🎡⃟🪄 ᴅꜱᴘ ʙᴏᴛ",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "🎡⃟🪄 ᴅꜱᴘ ʙᴏᴛ happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
